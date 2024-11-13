@@ -63,7 +63,7 @@ The data provides a thorough overview of purchase patterns, sales data, and cust
 - **PgAdmin4**: A GUI tool used for interacting with the PostgreSQL database.
 
 - Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![MusicDatabaseSchema](https://github.com/SubhrjiT/Music_Store_Analysis_SQL/blob/main/schema_diagram.png)
 
 ## Analysis
 
